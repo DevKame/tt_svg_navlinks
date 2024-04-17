@@ -7,6 +7,7 @@ a {
     width: 100px;
     height: 40px;
     cursor: pointer;
+    box-shadow: 0 0 5px 1px #555 inset;
 }
 a svg {
     width: 100%;
